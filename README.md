@@ -135,14 +135,15 @@ During development, I decided to modify the controller by implementing additiona
 ![Resource costs](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Images/Resource_costs.png)
 ## RTL-module
 ![RTL-Netlist](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Images/RTL-Netlist.png)
-## Project Setup
-This project has been developed with Cyclon V Quartus.
+
 
 ## Setup times
 ![Timings](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Images/Setup_times.png)
 ## Summary table of pin voltages
 ![Pin voltages](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Images/Table_of_pin_voltages.png)
 
+## Project Setup
+This project has been developed with Cyclon V Quartus.
 
 
 
