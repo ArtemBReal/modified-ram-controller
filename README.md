@@ -1,5 +1,7 @@
 # modified-ram-controller
 
+>This project is archived and is used only as an example of work for a resume. Maybe someday I'll redo it.
+
 ## Short Description
 This project is my course project. The task was to develop a RAM controller on SystemVerilog. The device must be able to write and read data from the memory array (*two-dimensional array reg/logic*). The word width is 32 bits, the number of words is set by the parameter (*the memory array itself can be declared as reg[31:0] mem [p_mem_size]*). 
 Basic properties of the device:
