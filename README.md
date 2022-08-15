@@ -24,6 +24,7 @@ During development, I decided to modify the controller by implementing additiona
 ####  1. Writing data to the beginning, middle and end of the array
 1. Wave chart:
 
+	![Wave chart 1](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Wave%20charts/pre-prepared_test_1.png)
 2. Results output to the console:
  
          
@@ -41,7 +42,7 @@ During development, I decided to modify the controller by implementing additiona
         
 ####  2. Writing data to the entire array, reading data from the beginning, middle, end and the entire array
 1. Wave chart:
-
+	![Wave chart 2](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Wave%20charts/pre-prepared_test_2.png)
 2. Results output to the console:
         
  
@@ -69,7 +70,7 @@ During development, I decided to modify the controller by implementing additiona
 ### 2. Testing using the built-in random number generator
 ####  1. Test 1
 1. Wave chart:
-
+	![Wave chart 3](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Wave%20charts/random_test_1.png)
 2. Results output to the console:
 
         Op_code = 00 	WE = 0 	RE = 0
@@ -83,7 +84,7 @@ During development, I decided to modify the controller by implementing additiona
         
 ####  2. Test 2
 1. Wave chart:
-
+	![Wave chart 4](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Wave%20charts/random_test_2.png)
 2. Results output to the console:
 
         Op_code = 11 	WE = 0 	RE = 1
@@ -108,7 +109,7 @@ During development, I decided to modify the controller by implementing additiona
         
 ####  3. Test 3
 1. Wave chart:
-
+	![Wave chart 5](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Wave%20charts/random_test_3.png)
 2. Results output to the console:
         Op_code = 01 	WE = 1 	RE = 0
         An entry of data = 00110101100111111101110101101011 was made to the middle of the array
@@ -131,15 +132,16 @@ During development, I decided to modify the controller by implementing additiona
         Reading from the middle of the array completed successfully!
 
 ## Resource costs
-
+![Resource costs](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Images/Resource_costs.png)
 ## RTL-module
-
+![RTL-Netlist](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Images/RTL-Netlist.png)
 ## Project Setup
 This project has been developed with Cyclon V Quartus.
 
-## Timings/frequency of memory operation
-
+## Setup times
+![Timings](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Images/Setup_times.png)
 ## Summary table of pin voltages
+![Pin voltages](https://github.com/ArtemBReal/modified-ram-controller/blob/main/Images/Table_of_pin_voltages.png)
 
 
 
